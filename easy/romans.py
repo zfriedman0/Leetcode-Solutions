@@ -10,4 +10,4 @@ def romanToInt(s):
 
     return total
 
-print(romanToInt("CCLXX"))
+print(romanToInt("CDX"))
